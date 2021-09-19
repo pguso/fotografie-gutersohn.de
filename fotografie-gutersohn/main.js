@@ -496,8 +496,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 const routes = [
-    { path: 'home', component: _pages_home_home_component__WEBPACK_IMPORTED_MODULE_3__["HomeComponent"] },
-    { path: '', redirectTo: 'home', pathMatch: 'full' },
+    { path: '', component: _pages_home_home_component__WEBPACK_IMPORTED_MODULE_3__["HomeComponent"] },
     { path: 'imprint', component: _pages_imprint_imprint_component__WEBPACK_IMPORTED_MODULE_4__["ImprintComponent"] },
     { path: 'disclaimer', component: _pages_disclaimer_disclaimer_component__WEBPACK_IMPORTED_MODULE_5__["DisclaimerComponent"] },
 ];
